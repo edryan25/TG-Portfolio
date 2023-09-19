@@ -6,8 +6,8 @@
 Meu nome Edryan, tenho 21 anos e moro em Jacareí. Comecei meus estudos na Fatec em 2020 no curso de Analise e desenvolvimento de sistemas. Trabalho na area de TI a mais de 2 anos. Comecei minha carreira na empresa Softwillians em junho de 2021, atuando como analista de sustentaçãom, atualmente estou na empresa mesma empresa, porem atuando como TechLead da equipe de sustentação. 
 
 ## Contatos
-* [GIT]([https://www.git.com](https://github.com/edryan25))
-* [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/edryan-maciel-43538b198/))
+* [GIT](https://www.git.com](https://github.com/edryan25))
+* [LinkedIn](https://www.linkedin.com](https://www.linkedin.com/in/edryan-maciel-43538b198/))
 
 ## Meus Principais Conhecimentos
 Como na empresa que trablho utilizamos as tecnologias .Net, SQLServer, Asp.Net para o BackEnd, essas são a maior parte de conhecimento que possuo, pois utilizo no dia a dia. Pretendo aprimorar ainda mais meus conhecimentos nesses pontos, pois acredito que para alcançar as minhas metas, preciso me aperfeiçoar bastante.
@@ -16,6 +16,7 @@ Como na empresa que trablho utilizamos as tecnologias .Net, SQLServer, Asp.Net p
 
 ### Em 2020-1
 O meu primeiro projeto na Fatec foi uma aplicação mobile que deveria informar o consumo de energia na casa do usuário, visando o mesmo monitorar os gastos e assim conseguir diminui-los.
+
 ![image](https://github.com/edryan25/TG-Portfolio/assets/67153110/a95b87cc-ce45-484a-8cb7-fdff5455fe42)
 
 #### Tecnologias Utilizadas
