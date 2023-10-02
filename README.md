@@ -43,8 +43,30 @@ Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o n�
 Comunicação - Anteriormente já havia trabalhado em grupo em um projeto de programação, porem nesse nível de complexidade ainda não, logo tive que exercitar as minhas habilidade de comunicação para conseguir passar o que tinha que ser feito e o que foi feito, nas reuniões.
 
 ### Em 2020-2
-Mesmo formato
+No meu segundo projeto de API, desenvolvemos um sistema de gestão para motoristas da empresa Iacit, especializada em transporte de encomendas.
 
+![login-index](https://github.com/edryan25/TG-Portfolio/assets/67153110/cd6c345a-417f-43bd-8684-3e901ad1e0e3)
+
+#### Tecnologias Utilizadas
+
+Spring: Encarregado da elaboração da lógica da aplicação e da manipulação das páginas HTML.
+
+Postgres: O sistema de gerenciamento de banco de dados selecionado para preservar os dados da aplicação.
+
+Hibernate: Uma solução ORM (Mapeamento objeto-relacional) que agiliza e simplifica o processo de desenvolvimento.
+
+HTML/CSS: Linguagens de marcação empregadas na concepção e formatação das páginas web.
+
+#### Contribuições Pessoais
+******************
+
+#### Hard Skills
+
+*****************
+
+#### Soft Skills
+
+*****************
 ### Em 2021-1
 Mesmo formato
 
