@@ -36,14 +36,12 @@ Programação em bloco: Como foi a primeira vez que tive contato com esse tipo d
 
 Arduino: Como mencionei, já havia utilizado a tecnologia, porém nesse tipo de aplicação com integração ao mobile, foi a primeira, logo também aprendi bastante. - Sei fazer com ajuda
 
-Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
-
 #### Soft Skills
 
 Comunicação - Anteriormente já havia trabalhado em grupo em um projeto de programação, porem nesse nível de complexidade ainda não, logo tive que exercitar as minhas habilidade de comunicação para conseguir passar o que tinha que ser feito e o que foi feito, nas reuniões.
 
 ### Em 2020-2
-No meu segundo projeto de API, desenvolvemos um sistema de gestão para motoristas da empresa Iacit, especializada em transporte de encomendas.
+No meu segundo projeto de API, desenvolvemos um sistema de gestão para motoristas da empresa Iacit, especializada em transporte de encomendas. Neste projeto, tivemos a necessidade de desenvolver uma solução que permitisse auxiliar tanto o motorista de caminhão durante suas viagens, quanto fornecer maior visibilidade e controle de sua jornada trabalhista à empresa, que é capaz de enxergar com mais clareza onde se encontra o motorista e que horas ele irá fazer suas pausas.
 
 ![login-index](https://github.com/edryan25/TG-Portfolio/assets/67153110/cd6c345a-417f-43bd-8684-3e901ad1e0e3)
 
@@ -58,17 +56,43 @@ Hibernate: Uma solução ORM (Mapeamento objeto-relacional) que agiliza e simpli
 HTML/CSS: Linguagens de marcação empregadas na concepção e formatação das páginas web.
 
 #### Contribuições Pessoais
-******************
+
+Por todo decorrer do projeto, trabalhei com o Backend, criando a logica da tela de cadastro de motorista e caminhão.
 
 #### Hard Skills
 
-*****************
+Spring: Antes do projeto não havia trabalhado com esse Framework, sendo assim aprendi bastante. - Sei fazer sozinho
+
+Postgres: Já compreendia o conceito e tinha uma boa base relacionada a banco de dados, logo consegui aperfeiçoar. - Sei fazer sozinho
+
+Hibernate: Anteriormente ao projeto não havia utilizado um ORM, então nesse projeto pude perceber a importâcia. - Sei fazer sozinho
+
+HTML/CSS: Sempre foquei mais no backend, porem nesse projeto tive que utilizar essa hard skill, logo aprendi muito. - Sei fazer sozinho
 
 #### Soft Skills
 
-*****************
+Comunicação: Como nesse projeto tivemos novos integrantes, treinei bastente essa soft skill em reuniões com a equipe e reports diários de nossas atividades.
+
 ### Em 2021-1
-Mesmo formato
+No contexto da nossa segunda API, colaboramos com a empresa parceira "NessHealth", especializada em medicina diagnóstica. A missão do segundo projeto era desenvolver uma plataforma educacional completa, composta por cursos e aulas online, além de oferecer a capacidade para os professores criarem tarefas e permitir que os alunos as resolvessem. Nossa equipe apresentou uma solução que atendesse a todos esses requisitos essenciais, enquanto também introduzia inovações, como a integração de um sistema de bate-papo para facilitar a comunicação entre professores e alunos, bem como a implementação de um sistema de avaliação.
+
+![indexSprint3](https://github.com/edryan25/TG-Portfolio/assets/67153110/59ead702-4ac2-4765-ba10-2ec574b8459c)
+
+#### Tecnologias Utilizadas
+
+***********************
+
+#### Contribuições Pessoais
+
+*************************
+
+#### Hard Skills
+
+*******************
+
+#### Soft Skills
+
+Comunicação: Como nesse projeto tivemos novos integrantes, treinei bastente essa soft skill em reuniões com a equipe e reports diários de nossas atividades.
 
 ### Em 2021-2
 Mesmo formato
