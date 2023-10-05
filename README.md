@@ -51,7 +51,7 @@ Spring: Encarregado da elaboração da lógica da aplicação e da manipulação
 
 Postgres: O sistema de gerenciamento de banco de dados selecionado para preservar os dados da aplicação.
 
-Hibernate: Uma solução ORM (Mapeamento objeto-relacional) que agiliza e simplifica o processo de desenvolvimento.
+JPA: Uma solução ORM (Mapeamento objeto-relacional) que agiliza e simplifica o processo de desenvolvimento.
 
 HTML/CSS: Linguagens de marcação empregadas na concepção e formatação das páginas web.
 
@@ -65,7 +65,7 @@ Spring: Antes do projeto não havia trabalhado com esse Framework, sendo assim a
 
 Postgres: Já compreendia o conceito e tinha uma boa base relacionada a banco de dados, logo consegui aperfeiçoar. - Sei fazer sozinho
 
-Hibernate: Anteriormente ao projeto não havia utilizado um ORM, então nesse projeto pude perceber a importâcia. - Sei fazer sozinho
+JPA: Anteriormente ao projeto não havia utilizado um ORM, então nesse projeto pude perceber a importâcia. - Sei fazer sozinho
 
 HTML/CSS: Sempre foquei mais no backend, porem nesse projeto tive que utilizar essa hard skill, logo aprendi muito. - Sei fazer sozinho
 
@@ -80,19 +80,37 @@ No contexto da nossa segunda API, colaboramos com a empresa parceira "NessHealth
 
 #### Tecnologias Utilizadas
 
-***********************
+Spring: Responsável pela elaboração da lógica da aplicação e pela manipulação das páginas HTML.
+
+STS: Utilizado como ambiente de desenvolvimento para facilitar o gerenciamento do projeto.
+
+JPA: Utilizada como solução ORM (Mapeamento objeto-relacional) para simplificar o desenvolvimento e a persistência de dados.
+
+HTML/CSS: Empregados na concepção e formatação das páginas web.
+
+MySQL: Selecionado como sistema de gerenciamento de banco de dados para armazenar os dados da aplicação.
 
 #### Contribuições Pessoais
 
-*************************
+Neste projeto foquei novamente no backend, desenvolvi bastante as logicas das telas de administração e também na parte do login.
 
 #### Hard Skills
 
-*******************
+Spring: Como no projeto anterior utilizei este framework, consegui trabalhar com ele com facilidade. - Sei fazer sozinho 
+
+STS: O Spring Tool Suite (STS) foi uma novidade para mim neste projeto, sendo assim desenvolvi bastante essa habilidade com ajuda dos professores e colegas. - Sei fazer com ajuda
+
+JPA: Como no projeto anterior utilizamos essa ORM, neste projeto apenas desenolvi mais minha habilidade com essa tecnologia. - Sei fazer com ajuda
+
+HTML/CSS: Neste projeto, desenvolvi bastante habilidade em HTML/CSS e sou capaz de trabalhar com eles de forma independente. - Sei fazer sozinho
+
+MySQL: Anteriormente, já havia feito diversos projetos com MySQL, sendo assim, tive facilidade e aprendi ainda mais com o projeto. - Sei fazer sozinho
 
 #### Soft Skills
 
-Comunicação: Como nesse projeto tivemos novos integrantes, treinei bastente essa soft skill em reuniões com a equipe e reports diários de nossas atividades.
+Comunicação com a Equipe: Melhorei minha comunicação ao trabalhar com novos membros da equipe, realizando reuniões frequentes e relatórios diários.
+
+Comunicação com o Cliente Exigente: Enfrentamos desafios ao lidar com um cliente exigente que apresentou requisitos complexos para a época, mas melhoramos nossa comunicação para atender às suas expectativas de forma mais eficiente.
 
 ### Em 2021-2
 Mesmo formato
