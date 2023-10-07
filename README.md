@@ -47,7 +47,7 @@ No meu segundo projeto de API, desenvolvemos um sistema de gestão para motorist
 
 #### Tecnologias Utilizadas
 
-Spring: Encarregado da elaboração da lógica da aplicação e da manipulação das páginas HTML.
+Spring Tool Suite 4: Encarregado da elaboração da lógica da aplicação e da manipulação das páginas HTML.
 
 Postgres: O sistema de gerenciamento de banco de dados selecionado para preservar os dados da aplicação.
 
@@ -61,7 +61,7 @@ Por todo decorrer do projeto, trabalhei com o Backend, criando a logica da tela 
 
 #### Hard Skills
 
-Spring: Antes do projeto não havia trabalhado com esse Framework, sendo assim aprendi bastante. - Sei fazer sozinho
+Spring Tool Suite 4: Antes do projeto não havia trabalhado com esse Framework, sendo assim aprendi bastante. - Sei fazer sozinho
 
 Postgres: Já compreendia o conceito e tinha uma boa base relacionada a banco de dados, logo consegui aperfeiçoar. - Sei fazer sozinho
 
@@ -74,15 +74,13 @@ HTML/CSS: Sempre foquei mais no backend, porem nesse projeto tive que utilizar e
 Comunicação: Como nesse projeto tivemos novos integrantes, treinei bastente essa soft skill em reuniões com a equipe e reports diários de nossas atividades.
 
 ### Em 2021-1
-No contexto da nossa segunda API, colaboramos com a empresa parceira "NessHealth", especializada em medicina diagnóstica. A missão do segundo projeto era desenvolver uma plataforma educacional completa, composta por cursos e aulas online, além de oferecer a capacidade para os professores criarem tarefas e permitir que os alunos as resolvessem. Nossa equipe apresentou uma solução que atendesse a todos esses requisitos essenciais, enquanto também introduzia inovações, como a integração de um sistema de bate-papo para facilitar a comunicação entre professores e alunos, bem como a implementação de um sistema de avaliação.
+No contexto da nossa terceira API, colaboramos com a empresa parceira "NessHealth", especializada em medicina diagnóstica. A missão do segundo projeto era desenvolver uma plataforma educacional completa, composta por cursos e aulas online, além de oferecer a capacidade para os professores criarem tarefas e permitir que os alunos as resolvessem. Nossa equipe apresentou uma solução que atendesse a todos esses requisitos essenciais, enquanto também introduzia inovações, como a integração de um sistema de bate-papo para facilitar a comunicação entre professores e alunos, bem como a implementação de um sistema de avaliação.
 
 ![indexSprint3](https://github.com/edryan25/TG-Portfolio/assets/67153110/59ead702-4ac2-4765-ba10-2ec574b8459c)
 
 #### Tecnologias Utilizadas
 
-Spring: Responsável pela elaboração da lógica da aplicação e pela manipulação das páginas HTML.
-
-STS: Utilizado como ambiente de desenvolvimento para facilitar o gerenciamento do projeto.
+Spring Tool Suite 4: Utilizado como ambiente de desenvolvimento para facilitar o gerenciamento do projeto.
 
 JPA: Utilizada como solução ORM (Mapeamento objeto-relacional) para simplificar o desenvolvimento e a persistência de dados.
 
@@ -96,9 +94,7 @@ Neste projeto foquei novamente no backend, desenvolvi bastante as logicas das te
 
 #### Hard Skills
 
-Spring: Como no projeto anterior utilizei este framework, consegui trabalhar com ele com facilidade. - Sei fazer sozinho 
-
-STS: O Spring Tool Suite (STS) foi uma novidade para mim neste projeto, sendo assim desenvolvi bastante essa habilidade com ajuda dos professores e colegas. - Sei fazer com ajuda
+Spring Tool Suite 4: O Spring Tool Suite (STS) foi uma novidade para mim neste projeto, sendo assim desenvolvi bastante essa habilidade com ajuda dos professores e colegas. - Sei fazer com ajuda
 
 JPA: Como no projeto anterior utilizamos essa ORM, neste projeto apenas desenolvi mais minha habilidade com essa tecnologia. - Sei fazer com ajuda
 
@@ -113,7 +109,39 @@ Comunicação com a Equipe: Melhorei minha comunicação ao trabalhar com novos 
 Comunicação com o Cliente Exigente: Enfrentamos desafios ao lidar com um cliente exigente que apresentou requisitos complexos para a época, mas melhoramos nossa comunicação para atender às suas expectativas de forma mais eficiente.
 
 ### Em 2021-2
-Mesmo formato
+No quarto projeto, em colaboração com a renomada empresa de aviação Embraer, desenvolvemos a API "HandbookPlane" utilizando Java 11. Esta API serve como a base para um website construído com HTML, CSS e JavaScript em uma rede local. O objetivo principal é simplificar a documentação de aeronaves, agilizando os serviços para nossos clientes. Além disso, estamos empenhados em implementar recursos avançados de pesquisa e organização para melhorar a usabilidade da plataforma HandbookPlane.
+
+![VisualizarBloco-PDF](https://github.com/edryan25/TG-Portfolio/assets/67153110/7354d96e-67a5-4324-9a91-c92fc03e1124)
+
+#### Tecnologias Utilizadas
+
+Spring Tool Suite 4: Ambiente de desenvolvimento utilizado para gerenciar o projeto, alem de ser responsável pelas lógicas e funcionalidades.
+
+MySQL: Sistema de gerenciamento de banco de dados para armazenar informações relevantes.
+
+JPA: Solução ORM (Mapeamento objeto-relacional) para facilitar o desenvolvimento e a persistência de dados.
+
+HTML/CSS: Utilizados para a criação e formatação das páginas web.
+
+#### Contribuições Pessoais
+
+No quarto projeto, meu foco principal foi novamente no desenvolvimento do backend. Minhas contribuições incluíram a implementação de funcionalidades na parte de blocos. Além disso, trabalhei na melhoria da experiência do usuário ao desenvolver a funcionalidade de listagem na tela de administrador.
+
+#### Hard Skills
+
+Spring Tool Suite 4: Continuando minha jornada com o STS, tornei-me mais independente ao usá-lo para desenvolver e gerenciar o projeto, aproveitando as ferramentas disponíveis com mais confiança. - Sei fazer sozinho
+
+JPA: Minha familiaridade com o uso do JPA se aprofundou ainda mais, permitindo-me projetar soluções ORM mais eficazes e eficientes. - Sei fazer sozinho
+
+HTML/CSS: Por mais que trabalhei muito mais no backend, ainda sim desenvolvi minhas habilidades em HTML/CSS, agora sendo capaz de trabalhar com eles de forma mais independente e eficaz. - Sei fazer com ajuda
+
+MySQL: Anteriormente, já havia feito diversos projetos com MySQL, sendo assim, tive facilidade e aprendi ainda mais com o projeto. - Sei fazer sozinho
+
+#### Soft Skills
+
+Comunicação com a Equipe: Mantive e aprimorei minha capacidade de comunicação com a equipe, facilitando reuniões frequentes e relatórios diários, contribuindo para o sucesso do projeto.
+
+Comunicação com o Cliente Exigente: Aprofundei minha habilidade de lidar com clientes exigentes, tornando a comunicação mais eficiente e atendendo melhor às suas expectativas. Isso foi fundamental para o êxito do projeto.
 
 ### Em 2022-1
 Mesmo formato
