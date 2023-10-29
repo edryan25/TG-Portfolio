@@ -57,7 +57,7 @@ HTML/CSS: Linguagens de marcação empregadas na concepção e formatação das 
 
 #### Contribuições Pessoais
 
-Por todo decorrer do projeto, trabalhei com o Backend, criando a logica da tela de cadastro de motorista e caminhão.
+Ao longo de todo o projeto, desempenhei um papel crucial no desenvolvimento do Backend. Utilizei o Spring Tool para criar a lógica por trás da funcionalidade de cadastro de motoristas e caminhões. Adicionalmente, empreguei o JPA para garantir a persistência dos dados e o PostgreSQL como sistema de gerenciamento de banco de dados para armazenar as informações relevantes. No que diz respeito à tela de cadastro de motoristas, esta incluiu os seguintes campos: Nome, CPF, CNH, Estado, Cidade e data de admissão na empresa. Quanto à parte do cadastro de caminhões, os campos abrangidos foram Placa, Montadora, Modelo e Categoria.
 
 #### Hard Skills
 
@@ -90,11 +90,11 @@ MySQL: Selecionado como sistema de gerenciamento de banco de dados para armazena
 
 #### Contribuições Pessoais
 
-Neste projeto foquei novamente no backend, desenvolvi bastante as logicas das telas de administração e também na parte do login.
+Neste projeto, concentrei novamente meus esforços no desenvolvimento do Backend. Elaborei as lógicas por trás das telas de administração, que englobaram o cadastro de administradores, gestores, tutores e alunos. Além disso, fui responsável pela implementação da funcionalidade de login e pelo desenvolvimento de um repositório de documentos, que possibilitou o armazenamento de arquivos no banco de dados. Assim como no projeto anterior, utilizei o Spring Tool Suite (STS) e o JPA para atender às mesmas necessidades. No entanto, enfrentamos novos desafios, como a implementação de autenticação com registro de logs de acesso e a migração para um novo banco de dados, o MySQL.
 
 #### Hard Skills
 
-Spring Tool Suite 4: O Spring Tool Suite (STS) foi uma novidade para mim neste projeto, sendo assim desenvolvi bastante essa habilidade com ajuda dos professores e colegas. - Sei fazer com ajuda
+Spring Tool Suite 4: Mesmo utilizando o Spring Tool Suite (STS) no projeto passado ainda sim foi bastante desafiador, sendo assim desenvolvi bastante essa habilidade com ajuda dos professores e colegas. - Sei fazer com ajuda
 
 JPA: Como no projeto anterior utilizamos essa ORM, neste projeto apenas desenolvi mais minha habilidade com essa tecnologia. - Sei fazer com ajuda
 
@@ -125,7 +125,7 @@ HTML/CSS: Utilizados para a criação e formatação das páginas web.
 
 #### Contribuições Pessoais
 
-No quarto projeto, meu foco principal foi novamente no desenvolvimento do backend. Minhas contribuições incluíram a implementação de funcionalidades na parte de blocos. Além disso, trabalhei na melhoria da experiência do usuário ao desenvolver a funcionalidade de listagem na tela de administrador.
+No quarto projeto, direcionei mais uma vez meu esforço para o desenvolvimento do Backend. Minhas responsabilidades envolveram a criação de funcionalidades relacionadas aos blocos como a sua criação e exibição, a implementação da lógica de login e o desenvolvimento de eventos de pesquisa abrangendo informações sobre blocos, administradores, códigos, traços e LEP 
 
 #### Hard Skills
 
