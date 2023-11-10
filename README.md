@@ -181,9 +181,37 @@ Comunicação com a Equipe e Cliente:
 No quinto projeto, ao entrar no desenvolvimento mobile, intensifiquei essa habilidade, garantindo uma comunicação ainda mais alinhada e detalhada para enfrentar os desafios específicos.
 
 ### Em 2022-2
-Mesmo formato
+No último projeto, em colaboração com a Visiona, uma empresa especializada em integração de sistemas espaciais, fomos encarregados de implementar uma função em um aplicativo já desenvolvido por um grupo anterior da Fatec. Essa função visava incorporar uma inteligência artificial capaz de reconhecer a quantidade de sementes em uma vagem de soja.
 
+![image](https://github.com/edryan25/TG-Portfolio/assets/67153110/66d40cc4-f9d8-4f65-a5e1-d90410ce0968)
 
+#### Tecnologias Utilizadas
+
+Flask: O framework Flask foi escolhido como base para este projeto, uma vez que a Inteligência Artificial foi desenvolvida em Python, proporcionando uma integração eficaz e coesa.
+
+Detectron2: Optamos por integrar a biblioteca Detectron2 para potencializar as capacidades de Inteligência Artificial do projeto. Sua escolha se fundamenta na destacada performance e reconhecimento que essa tecnologia alcançou no mercado.
+
+React-Native: Mais uma vez, escolhemos o React-Native para o desenvolvimento do aplicativo. Sua flexibilidade e eficiência tornam possível criar uma aplicação móvel com alto desempenho e experiência do usuário diferenciada.
+
+Figma: Para a concepção visual da aplicação, utilizamos a plataforma Figma. Essa ferramenta desempenhou um papel essencial no design, contribuindo para uma experiência do usuário mais intuitiva e atraente.
+
+#### Contribuições Pessoais
+
+No meu último projeto, desempenhei um papel crucial no auxílio ao desenvolvimento e aprimoramento da acurácia da Inteligência Artificial no reconhecimento de grãos. Minha responsabilidade abrangeu não apenas a implementação de melhorias no algoritmo, mas também a análise e a otimização do projeto.
+
+#### Hard Skills
+
+Flask: Esse framework já havia utilizado em um projeto da faculdade, logo tive mais facilidade de compreender o codigo e desenvolvimento - Sei fazer sozinho
+
+Detectron2: Primeira vez que usei essa biblioteca, sendo assim foi tudo novo para mim - Sei fazer com ajuda
+
+React-Native: Como utilizei anteriormente, neste projeto consegui aprimorar minhas habilidades - Sei fazer com ajuda
+
+#### Soft Skills
+
+Comunicação com a Equipe e Cliente:
+
+No último projeto elevei ainda mais essa Soft Skill, pois alem do cliente ser exigente, demos continuidade com o projeto de outra equipe.
 
 
 
