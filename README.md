@@ -144,7 +144,41 @@ Comunicação com a Equipe: Mantive e aprimorei minha capacidade de comunicaçã
 Comunicação com o Cliente Exigente: Aprofundei minha habilidade de lidar com clientes exigentes, tornando a comunicação mais eficiente e atendendo melhor às suas expectativas. Isso foi fundamental para o êxito do projeto.
 
 ### Em 2022-1
-Mesmo formato
+No desenvolvimento desta API, novamente em colaboração com a renomada Embraer, concentramos nossos esforços em atender a uma nova demanda. Dessa vez, o desafio consistiu na criação de um aplicativo capaz de notificar os usuários sobre novos procedimentos em situações relacionadas aos seus veículos registrados.
+
+![image](https://github.com/edryan25/TG-Portfolio/assets/67153110/8cf06cc9-6e08-4881-899e-548fc761dea8)
+
+#### Tecnologias Utilizadas
+
+Node.js: Optamos novamente pelo robusto Framework Node.js para o desenvolvimento do nosso Back-end, uma escolha respaldada pela sua ampla adoção no mercado e pelo sólido suporte oferecido pela sua comunidade.
+
+Typescript: Reconhecendo a importância da tipagem em projetos extensos de Node.js, implementamos o Typescript para conferir maior robustez ao nosso código JavaScript, aumentando a segurança e facilidade na manutenção.
+
+React-Native: Adotamos o React-Native para viabilizar o desenvolvimento de aplicativos compiláveis tanto para Android quanto para iOS, proporcionando uma abordagem eficiente e consistente na criação de experiências móveis.
+
+MongoDB: Para esta API, escolhemos integrar um banco de dados NoSQL, e o MongoDB foi a nossa escolha devido à sua perfeita integração com o Node.js, proporcionando eficiência e flexibilidade.
+
+Figma: Utilizamos a plataforma Figma para o design da aplicação, assegurando uma abordagem centrada no usuário desde a fase inicial do desenvolvimento.
+
+#### Contribuições Pessoais
+
+No quinto projeto, meu foco retornou ao back-end, concentrando-me nas áreas de login e na obtenção da localização do usuário. Esta última funcionalidade desempenha um papel fundamental, sendo essencial para a apresentação de informações filtradas de forma precisa, melhorando assim a experiência do usuário de maneira significativa. Além de auxilixar meus colegas com o desenvolvimento do restante do back-end.
+
+#### Hard Skills
+
+Node.js: Já havia utilizado o node no decorrer da minha carreira como analista, porem com esse projeto aprendi muito mais - Sei fazer com ajuda
+
+Typescript: Além de usar no meu atual emprego como analista, utilizei também em alguns projetos pessoais - Sei fazer sozinho
+
+React-Native: Primeira vez que estava utilizando o React-Native, logo foi tudo novo e aprendi bastante - Sei fazer com ajuda
+
+MongoDB: Utilizei o MongoDB em alguns projetos da faculdade e com esse projeto aprimorei minhas habilidades técnicas - Sei fazer sozinho
+
+#### Soft Skills
+
+Comunicação com a Equipe e Cliente:
+
+No quinto projeto, ao entrar no desenvolvimento mobile, intensifiquei essa habilidade, garantindo uma comunicação ainda mais alinhada e detalhada para enfrentar os desafios específicos.
 
 ### Em 2022-2
 Mesmo formato
