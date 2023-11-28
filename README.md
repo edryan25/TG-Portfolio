@@ -197,7 +197,7 @@ Figma: Para a concepção visual da aplicação, utilizamos a plataforma Figma. 
 
 #### Contribuições Pessoais
 
-No meu último projeto, desempenhei um papel crucial no auxílio ao desenvolvimento e aprimoramento da acurácia da Inteligência Artificial no reconhecimento de grãos. Minha responsabilidade abrangeu não apenas a implementação de melhorias no algoritmo, mas também a análise e a otimização do projeto.
+No meu último projeto, desempenhei um papel crucial no auxílio ao desenvolvimento e aprimoramento da acurácia da Inteligência Artificial no reconhecimento de grãos, que por sua vez utilizamos o Detectron2, um framework de código aberto desenvolvida pelo Facebook AI Research (FAIR) para detecção de objetos em imagens, contribui com o aprimoramento realizando as anotações de imagens, identificando o que seria vagem e semente assim conseguindo treinar a IA. Minha responsabilidade abrangeu não apenas a IA, mas também auxilei a equipe a rodar e buildar o sistema em React-Native, tivemos dificuldades, pois não havia muita documentação de como rodar o projeto.
 
 #### Hard Skills
 
